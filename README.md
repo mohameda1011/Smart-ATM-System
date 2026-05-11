@@ -1,6 +1,6 @@
 # Smart ATM System
 
-A smart ATM simulation system built using Python, Flask, SQL database integration, and serial communication with external hardware devices such as Arduino and RFID readers.
+A smart ATM simulation system built using Python, Flask, SQL database integration, and serial communication with external hardware devices such as ESP32 and RFID readers.
 
 The project combines software engineering, embedded systems, and web technologies to simulate real-world ATM operations.
 
@@ -17,7 +17,7 @@ The project combines software engineering, embedded systems, and web technologie
 
 ## Hardware Integration
 - Serial communication support
-- Arduino connectivity
+- ESP32
 - RFID/Card reader integration
 - External device interaction
 
