@@ -331,28 +331,16 @@ python main.py
 [Watch Demo](YOUR_VIDEO_LINK)
 ```
 
----
-
-# Future Improvements
-
-- AI-powered fraud detection
-- Mobile application
-- Smart financial analytics
-- Enhanced security
-- Multi-user banking support
-
----
-
 # Team Members
 
-Mohamed Anwar Abdelrazek
-Hany Elsayed Ibrahim
-Yosef Ahmed Faisal
-Ahmed Khaled Abdel-Monaiem
-Haidy Tawakl Helmy
-Mostafa Medhat Elmansy
-Abdelrahman Ahmed Mansour
-Nawar Khaled Refaat
+-Mohamed Anwar Abdelrazek
+-Hany Elsayed Ibrahim
+-Yosef Ahmed Faisal
+-Ahmed Khaled Abdel-Monaiem
+-Haidy Tawakl Helmy
+-Mostafa Medhat Elmansy
+-Abdelrahman Ahmed Mansour
+-Nawar Khaled Refaat
 
 AIE Students
 
