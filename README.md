@@ -311,18 +311,14 @@ python main.py
 
 ## ATM CAD Design
 
-```md
-![ATM CAD Design](screenshots/atm_frame.png)
-```
+<img width="1918" height="1020" alt="Screenshot 2026-05-13 204805" src="https://github.com/user-attachments/assets/a075e005-cbbe-440f-aa6d-5eec9021841b" />
+
 
 ---
 
 ## ATM Interface
 
-```md
-!![ATM Hardware Interface](screenshots/1000274976.jpg)
-
-```
+<img width="960" height="1280" alt="WhatsApp Image 2026-05-13 at 5 38 27 AM" src="https://github.com/user-attachments/assets/4fa10ea3-fb34-4105-b519-cf69436eece9" />
 
 ---
 
