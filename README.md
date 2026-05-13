@@ -275,10 +275,7 @@ This project provided practical hands-on experience in:
 
 ## Clone Repository
 
-```bash
-git clone https://github.com/yourusername/Atm-Machine-System.git
-cd Atm-Machine-System
-```
+git clone: https://github.com/mohameda1011/Smart-ATM-System.git
 
 ---
 
