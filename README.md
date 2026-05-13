@@ -311,21 +311,21 @@ python main.py
 
 ## ATM CAD Design
 
-<img width="1918" height="1020" alt="Screenshot 2026-05-13 204805" src="https://github.com/user-attachments/assets/a075e005-cbbe-440f-aa6d-5eec9021841b" />
+<img width="959" height="510" alt="Screenshot 2026-05-13 204805" src="https://github.com/user-attachments/assets/a075e005-cbbe-440f-aa6d-5eec9021841b" />
 
 
 ---
 
 ## ATM Interface
 
-<img width="960" height="1280" alt="WhatsApp Image 2026-05-13 at 5 38 27 AM" src="https://github.com/user-attachments/assets/4fa10ea3-fb34-4105-b519-cf69436eece9" />
+<img width="480" height="640" alt="WhatsApp Image 2026-05-13 at 5 38 27 AM" src="https://github.com/user-attachments/assets/4fa10ea3-fb34-4105-b519-cf69436eece9" />
 
 ---
 
 # Demo Video
 
-```md
-[Watch Demo](YOUR_VIDEO_LINK)
+https://github.com/user-attachments/assets/0fa4d1be-8bb1-450b-9a17-d572076bf3d0
+
 ```
 
 ## Team Members
