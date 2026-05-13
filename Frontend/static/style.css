@@ -1,0 +1,94 @@
+/* static/style.css */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #111; /* Dark bezel color behind the screen */
+    font-family: 'Courier New', Courier, monospace;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden; /* Prevents scrollbars */
+    display: flex;
+}
+
+.atm-chassis {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    border: none;
+    border-radius: 0;
+    display: flex;
+}
+
+.atm-screen-bezel {
+    width: 100%;
+    height: 100%;
+    /* Optional: Leaves a small 20px black border around the edge. 
+       Change to 0px if you want the blue to touch the physical plastic edge */
+    padding: 20px; 
+    box-sizing: border-box;
+    display: flex;
+}
+
+.atm-screen {
+    position: relative;
+    background-color: #0047b3; 
+    color: #ffffff;
+    width: 100%;
+    height: 100%;
+    padding: 5vh 5vw; /* Scales padding based on screen size */
+    box-sizing: border-box;
+    border-radius: 8px; /* Slight curve on the screen corners */
+    box-shadow: inset 0 0 60px rgba(0,0,0,0.8); /* Deep shadow for CRT/LCD effect */
+    display: flex;
+    flex-direction: column;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+#display-title {
+    text-align: center;
+    font-size: 5vh; /* Responsive font size */
+    margin-top: 0;
+    margin-bottom: 3vh;
+    padding-bottom: 2vh;
+    border-bottom: 4px solid #fff;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+#display-message {
+    flex-grow: 1;
+    font-size: 4vh;
+    line-height: 1.8;
+    white-space: pre-wrap;
+    margin: 0;
+    font-weight: bold;
+    
+    /* The new alignment rules */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Centers vertically */
+    align-items: center;     /* Centers horizontally */
+    text-align: center;      /* Keeps multi-line text centered */
+}
+
+#display-input {
+    background-color: #003380;
+    min-height: 8vh;
+    font-size: 6vh; /* Larger input text */
+    text-align: center;
+    padding: 2vh;
+    letter-spacing: 12px;
+    border: 3px inset #002255;
+    border-radius: 6px;
+    margin-top: 2vh;
+}
+
+#uni-logo {
+    position: absolute;
+    top: 4vh;   /* Distance from the top */
+    left: 4vw;  /* Distance from the left */
+    height: 24vh; /* Slightly smaller so it fits nicely in the corner */
+    object-fit: contain;
+    display: none; /* Hidden by default, JS handles showing it */
+}

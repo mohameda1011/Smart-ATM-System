@@ -1,0 +1,23 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bank ATM</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="atm-chassis">
+        <div class="atm-screen-bezel">
+            <div class="atm-screen">
+                <h1 id="display-title">WELCOME</h1>
+                <img id="uni-logo" src="{{ url_for('static', filename='MNU (1).png') }}" alt="University Logo">
+                <pre id="display-message">Please tap your card.</pre>
+                <div id="display-input"></div>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
