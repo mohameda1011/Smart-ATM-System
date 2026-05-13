@@ -320,7 +320,8 @@ python main.py
 ## ATM Interface
 
 ```md
-![ATM Interface](screenshots/interface.png)
+!![ATM Hardware Interface](screenshots/1000274976.jpg)
+
 ```
 
 ---
