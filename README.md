@@ -326,7 +326,7 @@ python main.py
 
 https://github.com/user-attachments/assets/0fa4d1be-8bb1-450b-9a17-d572076bf3d0
 
-```
+
 
 ## Team Members
 
@@ -341,7 +341,7 @@ https://github.com/user-attachments/assets/0fa4d1be-8bb1-450b-9a17-d572076bf3d0
 
 AIE Students
 
----
+
 
 # License
 
