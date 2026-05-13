@@ -345,4 +345,4 @@ AIE Students
 
 # License
 
-This project is for educational and research purposes only.
+This project is for educational purposes.
