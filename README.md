@@ -336,20 +336,25 @@ python main.py
 # Future Improvements
 
 - AI-powered fraud detection
-- Cloud-hosted banking system
 - Mobile application
 - Smart financial analytics
-- Biometric authentication
-- Enhanced cybersecurity
+- Enhanced security
 - Multi-user banking support
 
 ---
 
-# Author
+# Team Members
 
-Mohamed Anwar
+Mohamed Anwar Abdelrazek
+Hany Elsayed Ibrahim
+Yosef Ahmed Faisal
+Ahmed Khaled Abdel-Monaiem
+Haidy Tawakl Helmy
+Mostafa Medhat Elmansy
+Abdelrahman Ahmed Mansour
+Nawar Khaled Refaat
 
-AI Engineering Student
+AIE Students
 
 ---
 
