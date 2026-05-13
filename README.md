@@ -273,9 +273,9 @@ This project provided practical hands-on experience in:
 
 # Installation & Setup
 
-## Clone Repository
+## Repository link
 
-git clone: https://github.com/mohameda1011/Smart-ATM-System.git
+git link: https://github.com/mohameda1011/Smart-ATM-System.git
 
 ---
 
